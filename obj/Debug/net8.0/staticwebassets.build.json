@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "c8GZv2WkuX51bBdU/G4eyvXuteJcKMqyg9EVpuneDlM=",
+  "Source": "AuctionSystem",
+  "BasePath": "_content/AuctionSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AuctionSystem\\wwwroot",
+      "Source": "AuctionSystem",
+      "ContentRoot": "C:\\Users\\Emiar\\Desktop\\AuctionSystem\\wwwroot\\",
+      "BasePath": "_content/AuctionSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
